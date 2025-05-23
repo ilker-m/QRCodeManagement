@@ -1,6 +1,6 @@
 # QRCode Management API
 
-Bu proje, karekod (GS1 formatında) üretimi ve doğrulaması için geliştirilmiş bir .NET 8 Web API uygulamasıdır. Basit bir dış servis (ERP benzeri) entegrasyonu ve Swagger desteği ile birlikte gelir.
+Bu proje, karekod (GS1 formatında) üretimi ve doğrulaması için geliştirilmiş bir .NET 8 Web API uygulamasıdır. Basit bir dış servis (ERP benzeri) entegrasyonu vardır. 
 
 ## Özellikler
 
