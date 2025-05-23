@@ -30,7 +30,3 @@ QRCodeManagement.Infrastructure  -> DbContext, servis implementasyonları
 QRCodeManagement.API             -> Controller ve API uç noktaları
 QRCodeManagement.Tests           -> Basit testler
 
-## Görseller
-![image](https://github.com/user-attachments/assets/e42c9904-6d9f-4846-8f46-492e062b6349)
-
-![image](https://github.com/user-attachments/assets/4610f93f-afb8-4df9-b2d6-0b454270e593)
