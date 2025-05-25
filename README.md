@@ -12,7 +12,7 @@ Bu proje, karekod (GS1 formatında) üretimi ve doğrulaması için geliştirilm
 - xUnit ile basit birim testi
 - Mock dış servis entegrasyonu (ERP simülasyonu)
   
-## Resimler
+## Görseller
 
 ![image](https://github.com/user-attachments/assets/e1671db3-f2ef-409e-ac80-82dc44aa3312)
 
